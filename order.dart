@@ -64,7 +64,7 @@ class Order {
   }
 }
 
-class OrderManeger {
+class OrderManager {
   final List<Order> _orders = [];
   
   void addOrder(Order order) {
