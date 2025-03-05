@@ -1,3 +1,17 @@
-abstract class Payment {}
-class CreditCardPayment implements Payment{}
-class CashPayment implements Payment{}
+abstract class Payment {
+  pay(double amount);
+}
+
+class CreditCardPayment implements Payment {
+  @override
+  pay(double amount) {
+ 
+  }
+}
+
+class CashPayment implements Payment {
+  @override
+  pay(double amount) {
+  
+  }
+}
