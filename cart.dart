@@ -1,7 +1,10 @@
-import 'main.dart';
 
+
+import 'products.dart';
 
 class Cart {
-  List<Products> products;
+  List<Product> items;
+  int userId;
+  double totalPrice;
 
 }
