@@ -50,5 +50,5 @@ Contributions are welcome! Feel free to open an **issue** or submit a **pull req
 
 ## 📢 Feedback
 
-*If you have any suggestions or find any bugs, please open an ****issue**** on GitHub. Your feedback is greatly appreciated! *
+If you have any suggestions or find any bugs, please open an ****issue**** on GitHub. Your feedback is greatly appreciated! 
 
